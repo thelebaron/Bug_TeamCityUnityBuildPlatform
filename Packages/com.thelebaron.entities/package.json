@@ -1,0 +1,12 @@
+{
+  "name": "com.thelebaron.entities",
+  "description": "helpful entity stuff",
+  "version": "0.0.1",
+  "displayName": "entities",
+  "type": "tool",
+  "unity": "2020.1",
+  "author": {
+    "name": "thelebaron",
+    "url": "https://www.twitter.com/chrislebaron"
+  }
+}
